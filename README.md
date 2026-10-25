@@ -4,7 +4,7 @@ This project is a deep learning application built using Keras and TensorFlow to 
 
 ---
 
-## 🚀 Core Components & Functions
+##  Core Components & Functions
 
 The project implements three main functions corresponding to different parts of the sequence generation pipeline:
 
@@ -25,7 +25,7 @@ The project implements three main functions corresponding to different parts of 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 * **Python**
 * **TensorFlow / Keras** (Functional API, LSTM, Dense, RepeatVector, Input)
 * **NumPy**
